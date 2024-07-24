@@ -1,0 +1,6 @@
+{
+  "watch": ["./app.js"],
+  "exec": "node ./app.js -- -I",
+  "ext": "js ts",
+  "stdin": false
+}
